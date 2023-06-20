@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useTypewriter } from 'react-simple-typewriter'
-import myImage from './../../assets/2.jpg'
+import myImage from './../../assets/2.JPG'
 import './MainHero.css'
 import resume from './../../assets/myresume.pdf'
 
