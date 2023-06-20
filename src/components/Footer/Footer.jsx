@@ -10,18 +10,18 @@ const Footer = () => {
                     <div className="location">
                         <FaHome size={20} style={{ color: "white", marginRight: "5px" }} />
                         <div>
-                            <p>Ongole ,Prakasam</p>
+                            <p>Anantapur, Andhra Pradesh</p>
                             <p>India</p>
                         </div>
                     </div>
 
                     <div className="phone">
-                        <h4><FaPhone size={20} style={{ color: "white", marginRight: "5px" }} /> 9391601807
+                        <h4><FaPhone size={20} style={{ color: "white", marginRight: "5px" }} /> 6305028223
                         </h4>
                     </div>
 
                     <div className="email">
-                        <h4><FaMailBulk size={20} style={{ color: "white"}} />ravitejaneppali007@gmail.com
+                        <h4><FaMailBulk size={20} style={{ color: "white"}} />mithulesh.gvn234@gmail.com
                         </h4>
                     </div>
 
@@ -30,10 +30,8 @@ const Footer = () => {
                     <h4>Something about me </h4>
                     <p>I enjoy discussing new projects and design challenges and enthusiastic to learn new technologies</p>
                     <div className="social">
-                    
-                    <a href="https://www.facebook.com/raviteja.chowdary.92167"> <FaFacebook size={30} style={{ color: "white" }} />  </a>
-                    <a href="https://www.linkedin.com/in/raviteja-neppali-a84a9a202"><FaLinkedin size={30} style={{ color: "white"}} /> </a>
-                    <a href="https://github.com/RavitejaChowdhary"><FaGithub size={30} style={{ color: "white"}} /></a>
+                    <a href="https://www.linkedin.com/in/mithulesh-gutha-a846b81b8/"><FaLinkedin size={30} style={{ color: "white"}} /> </a>
+                    <a href="https://github.com/mithuleshgutha/"><FaGithub size={30} style={{ color: "white"}} /></a>
                     </div>
                 </div>
             </div>
